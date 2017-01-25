@@ -1,0 +1,33 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\ApplicationInsights.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\roslyn\csc.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\roslyn\System.Collections.Immutable.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\roslyn\vbc.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\roslyn\VBCSCompiler.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\roslyn\VBCSCompiler.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Structure assignment.dll.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Structure assignment.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Structure assignment.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Microsoft.AI.Web.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Microsoft.AI.WindowsServer.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Microsoft.ApplicationInsights.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Microsoft.AI.Web.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Microsoft.AI.WindowsServer.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Microsoft.ApplicationInsights.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\obj\Debug\Structure assignment.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\obj\Debug\Structure assignment.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Structure assignment\Structure assignment\obj\Debug\Structure assignment.pdb
